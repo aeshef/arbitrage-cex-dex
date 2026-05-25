@@ -1,0 +1,20 @@
+{
+  "calm_apr2026": {
+    "kappa": 50.4,
+    "beta": 0.30,
+    "base_fee": 2.0,
+    "propose_gwei": 3.0
+  },
+  "moderate_may2022": {
+    "kappa": 5.0,
+    "beta": 0.80,
+    "base_fee": 20.0,
+    "propose_gwei": 35.0
+  },
+  "congested_dec2021": {
+    "kappa": 0.8,
+    "beta": 1.50,
+    "base_fee": 80.0,
+    "propose_gwei": 110.0
+  }
+}

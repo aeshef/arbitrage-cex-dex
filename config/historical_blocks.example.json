@@ -1,0 +1,10 @@
+{
+  "sep2021_nft": {"start_block": 13250000, "total_range": 80000, "n_samples": 300},
+  "congested_dec2021": {"start_block": 13750000, "total_range": 80000, "n_samples": 300},
+  "moderate_may2022": {"start_block": 14700000, "total_range": 80000, "n_samples": 300},
+  "jun2022_terra": {"start_block": 14950000, "total_range": 80000, "n_samples": 300},
+  "nov2022_ftx": {"start_block": 16000000, "total_range": 80000, "n_samples": 300},
+  "mar2023_banking": {"start_block": 16800000, "total_range": 80000, "n_samples": 300},
+  "aug2023_bald": {"start_block": 17950000, "total_range": 80000, "n_samples": 300},
+  "mar2024_dencun": {"start_block": 19400000, "total_range": 80000, "n_samples": 300}
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+config/gas_regimes.json
+config/historical_blocks.json
+
+.ipynb_checkpoints/
+.DS_Store
+
+data/
+outputs/
